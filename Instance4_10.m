@@ -1,5 +1,3 @@
-%In GOD we trust
-%This is the solving algorithm of transportation problem of cross-docking network by SEIED DAVOUD HOSSEINI
 clear
 clc
 
